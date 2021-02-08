@@ -4,7 +4,7 @@
 
 Quizzy is intended to be a trivia/quiz app. Users can log in, play games in different categories, and view their statistics. 
 
-![Start Quiz](/README_images/startquiz.png) ![Answers Reveal](/README_images/answers_reveal.png)
+![Start Quiz](/README_images/startquiz.png | width=200) ![Answers Reveal](/README_images/answers_reveal.png)
 
 ## Files
 
